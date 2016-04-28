@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionumplau01linggoog_0058.png"; bbox 0 0 2590 4390; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1069 242 1683 354">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1069 242 1683 377">
+     <span class='ocr_line' id='line_1_1' title="bbox 1069 242 1683 354; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1069 301 1172 319; x_wconf 84' lang='lat'><em>-—-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1256 251 1376 354; x_wconf 64' lang='grc'><em>38</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1430 242 1579 347; x_wconf 75' lang='lat'><em>³;--</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1663 344 1683 353; x_wconf 59' lang='lat'><em>„,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 457 2247 701">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 457 2310 701">
+     <span class='ocr_line' id='line_1_2' title="bbox 430 457 1293 581; baseline -0.002 -38"><span class='ocrx_word' id='word_1_5' title='bbox 430 538 434 581; x_wconf 75' lang='lat'><em>÷</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 483 457 505 461; x_wconf 20' lang='grc' dir='ltr'>ὴ</span> <span class='ocrx_word' id='word_1_7' title='bbox 535 475 670 559; x_wconf 51' lang='grc' dir='ltr'><em>Ιιῃ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 718 475 884 558; x_wconf 85' lang='lat' dir='ltr'><em>IV,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 913 560 915 565; x_wconf 11' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_10' title='bbox 942 466 1012 570; x_wconf 79' lang='lat'><em>3,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1077 467 1237 558; x_wconf 52' lang='lat'><em>313.‘</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1274 539 1293 561; x_wconf 5' lang='grc' dir='ltr'><em>,γ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 363 576 2247 701; baseline -0.001 -25"><span class='ocrx_word' id='word_1_13' title='bbox 363 615 366 619; x_wconf 87' lang='grc'>’</span> <span class='ocrx_word' id='word_1_14' title='bbox 436 611 624 700; x_wconf 69' lang='lat' dir='ltr'><em>Nqn-</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 640 590 878 699; x_wconf 52' lang='grc' dir='ltr'><em>ζάζςςῐίε</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 898 608 1200 701; x_wconf 30' lang='grc' dir='ltr'><em>ᾳυαερεὶἰ,</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1223 605 1360 681; x_wconf 78' lang='lat' dir='ltr'><em>illa</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1379 595 1438 676; x_wconf 83' lang='lat'><em>?</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1469 589 1626 686; x_wconf 71' lang='lat' dir='ltr'><em>LY.</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1645 606 1792 678; x_wconf 79' lang='lat' dir='ltr'><em>im&#39;o</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1829 605 2055 688; x_wconf 60' lang='lat' dir='ltr'><em>eadm</em></span> <span class='ocrx_word' id='word_1_22' title='bbox 2070 576 2247 687; x_wconf 55' lang='lat' dir='ltr'><em>ascia,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
